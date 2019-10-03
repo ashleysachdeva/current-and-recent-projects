@@ -1,0 +1,7 @@
+/* custom css rules */
+text{
+    font-style:11px;
+    text-anchor: middle;
+    text-align: right;
+    text-decoration-style: dotted;
+}
