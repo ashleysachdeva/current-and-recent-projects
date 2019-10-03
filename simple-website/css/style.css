@@ -1,0 +1,180 @@
+img.dogs{
+    float: left;
+    height: 49%;
+    width: 45%;
+}
+p.doggys{
+
+    text-align: right;
+    margin-left: 150px;
+    display:inline-block;
+    width: 40%;
+    height:40%
+    
+}
+img.energy{
+    height: 25%;
+    width: 35%;
+    margin-top:100px;
+}
+p.hockey{
+    text-align: right;
+    margin-left: 270px;
+    margin-top: 300px;
+    display:inline-block;
+    font-size:17px;
+    width: 40%;
+    height:80%
+}
+a{
+    color:red; 
+}
+body{
+    background-color: lightgrey;
+}
+img.music{
+    float: left;
+    height: 49%;
+    width: 45%;
+}
+p.hockey2{
+    text-align: right;
+    margin-left: 150px;
+    display:inline-block;
+    width: 40%;
+    height:40%
+}
+img.fish{
+    float: left;
+    height: 49%;
+    width: 45%;
+}
+p.hockey3{
+    text-align: right;
+    margin-left: 150px;
+    display:inline-block;
+    font-size:17px;
+    width: 40%;
+    height:40%
+
+}
+img.jobs{
+    float: left;
+    height: 39%;
+    width: 35%;
+}
+p.hockey4{
+    text-align: right;
+    margin-left: 300px;
+    display:inline-block;
+    font-size:17px;
+    width: 40%;
+    height:40%
+    
+
+}
+img.tennis{
+    float: left;
+    height: 29%;
+    width: 25%;
+}
+p.hockey5{
+    text-align: right;
+    margin-left: 450px;
+    display:inline-block;
+    font-size:17px;
+    width: 40%;
+    height:40%
+    
+
+
+}
+img.tennis1{
+    float: left;
+    height: 29%;
+    width: 25%;
+}
+img.tennis2{
+    margin-left: 200px;
+    display: inline-block;
+    height: 29%;
+    width: 25%;
+    border:4px solid maroon;
+}
+img.tennis3{
+  
+    float:right;
+    display: inline-block;
+    height: 29%;
+    width: 25%;
+
+}
+img.jobs1{
+    float: left;
+    height: 29%;
+    width: 25%;
+    border:4px solid maroon;
+}
+p.hockey6{
+    text-align: left;
+
+    float: below;
+    font-size:17px;
+    width: 40%;
+    height:40%
+    
+
+
+}
+img.jobs2{
+    margin-left: 200px;
+    display: inline-block;
+    height: 29%;
+    width: 25%;
+}
+img.jobs3{
+  
+    float:right;
+    display: inline-block;
+    height: 29%;
+    width: 25%;
+
+}
+img.fish1{
+    margin-left: 160px;
+    height: 29%;
+    width: 20%;
+    border:4px solid maroon;
+}
+img.fish2{
+    
+    display:inline-table;
+    height: 29%;
+    width: 20%;
+    border:4px solid maroon;
+}
+img.fish3{
+   float:left;
+    height: 29%;
+    width: 20%;
+ 
+}
+img.fish4{
+    float: right;
+    height: 29%;
+    width: 20%;
+  
+}
+p.hockey7{
+    text-align: center;
+
+    margin-left: 460px;
+    font-size:17px;
+    width: 40%;
+    height:40%
+    
+
+
+}
+
+
