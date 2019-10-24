@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Title</title>
+
+	<!-- Load CSS files -->
+	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+	<link rel="stylesheet" href="css/fontawesome.min.css">
+	<link rel="stylesheet" href="css/milligram.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+	<div class="container">
+		<!-- Feel free to remove but make sure to have a link to the project info -->
+		<h1>Our Story</h1>
+		For this homework we decided to reuse the dataset we used for homework 2. We 
+		both found this dataset very interesting and gained a lot of insight from the 
+		exploratory analysis we performed in Tableau. The Olympics are divided by 
+		countries and we wanted to learn more about how many medals each country produces each year.
+		We decided to visually encode our data into stacked charts because we thought 
+		this effectively displayed the difference between the total number of medals earned each year 
+		and how many were earned by each country. Different colors were used to encode the nominal 
+		data of the countries because they are each distinct, different, and can’t be ordered. Then once
+		the user clicks on a particular country, more information regarding how many medals they have earned is
+		shown through an area chart.
+		<br>
+		We faced a few difficulties during this assignment. First we realized that we need to 
+		change how our Excel dataset was organized. We performed some exploratory analysis on 
+		this dataset in Excel to determine the best way to reorganize the dataset. Below we added pictures of the dataset we
+		started with and the one we obtained after manipulating the data. The biggest challenege we faced was 
+		figuring out different interactive ways to display clear data. We found ourselves not being able to find sources to aid
+		us in this assignments. 
+		<br>
+		<br>
+
+	</div>
+	<pre class = "tab"> Starting Data                                                                                  Manipulated Data 
+	<br>
+	<img src="first.jpeg" alt="excel sheet" height="400" width="400">                                <img src="second.jpeg" alt="excel sheet" height="400" width="400" >
+</pre>
+
+	<!-- Load JS libraries: D3 -->
+	<script src="js/d3.min.js"></script>
+
+	<!-- Your implementation -->
+	<script type="module" src="js/main.js"></script>
+
+</body>
+</html>
